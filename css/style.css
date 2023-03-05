@@ -15,4 +15,5 @@ body {
     background-image: url(../images/background2.png);
     background-size: cover;
     background-position: center;
+    margin: 115px;
 }
